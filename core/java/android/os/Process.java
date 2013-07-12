@@ -104,6 +104,11 @@ public class Process {
     public static final int SDCARD_RW_GID = 1015;
 
     /**
+     * Defines the UID/GID for the SmartCard service process.
+     */
+    public static final int SMARTCARD_UID = 1029;
+
+    /**
      * Defines the UID/GID for the group that controls VPN services.
      * @hide
      */

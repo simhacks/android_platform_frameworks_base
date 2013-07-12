@@ -16435,6 +16435,7 @@ package android.os {
     field public static final int SIGNAL_KILL = 9; // 0x9
     field public static final int SIGNAL_QUIT = 3; // 0x3
     field public static final int SIGNAL_USR1 = 10; // 0xa
+    field public static final int SMARTCARD_UID = 1029; // 0x405
     field public static final int SYSTEM_UID = 1000; // 0x3e8
     field public static final int THREAD_PRIORITY_AUDIO = -16; // 0xfffffff0
     field public static final int THREAD_PRIORITY_BACKGROUND = 10; // 0xa
